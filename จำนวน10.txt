@@ -39,7 +39,8 @@ int main()
     printf("\n Ascending order : ");
     for(i=0; i<arr_size; i++)
     {
-        printf(" %d", number[i]);   
+        printf(" %d", number[i]);  
+        printf("Hadsadee Nunsang);
     }
      
     return 0;   
